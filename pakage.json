@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "lint": "next lint",
+    "test": "vitest run"
+  }
+}
