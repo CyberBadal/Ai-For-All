@@ -40,10 +40,26 @@ whar i did:
 4)I cleaned up the buttons and the overall flow of the form to make sure everything feels fast and doesn't glitch out when you click through the steps.
 
 what i learn:
-Y1)ou don't always need AI for everything. I realized that for calculating money and savings, using a clear set of rules is much better because it's always accurate and people trust the numbers more.  
+1)ou don't always need AI for everything. I realized that for calculating money and savings, using a clear set of rules is much better because it's always accurate and people trust the numbers more.  
 
 2)Planning ahead with a few docs saves a lot of time later. Writing out the architecture helped me figure out how the frontend and backend should talk to each other before I started coding the hard parts.
 
 3)The order of the app matters. I learned that it's better to show the user how much money they saved before asking for their email. It makes them much more likely to actually sign up.
 
 4)User experience is all about the small things. Adding a feature to "save" the form data as you type makes the app feel professional, so users don't get frustrated if they accidentally refresh the page.
+
+day -4
+
+Hours worked - 4 hours 
+
+what i did:
+1)Completed the ECONOMICS.md file with estimated lead value, CAC calculations, conversion funnel, and revenue projections.
+2)Finished the REFLECTION.md file by documenting development challenges, AI usage, decision reversals, and self-evaluation.
+3)Improved the audit savings calculation logic to make recommendations more accurate and realistic based on team size, pricing tiers, and usage patterns.
+4)Fixed several minor UI and validation issues across the project.
+Cleaned parts of the codebase and improved readability in the audit engine.
+
+What I learned:
+1)Learned how small pricing logic changes can significantly affect final savings calculations.
+2)Improved my understanding of SaaS unit economics and conversion funnel analysis.
+3)Learned the importance of balancing accurate recommendations with realistic business assumptions.

@@ -89,3 +89,4 @@ See [ARCHITECTURE.md] and [DEVLOG.md] for architecture decisions.
 
 ## 📄 License
 MIT
+
