@@ -115,3 +115,17 @@ Project progress was slightly delayed for 1–2 days due to academic examination
 ## AI Tools Used
 
 The project development process was assisted using modern AI tools for research, debugging, UI inspiration, documentation, and productivity improvements.
+
+| Work                        | AI                                                    |
+| --------------------------- | ----------------------------------------------------- |
+| Full-stack coding           | Replit                                                |
+| Architecture/planning       | ChatGPT                                               |
+| Debugging                   | ChatGPT + Cursor                                      |
+| Documentation writing       | Gemini,chatgpt, perrplexity                           |
+| Copywriting/Landing page    | claude,emergent,replit                                |
+| Business/GTM/Economics      | Gemini                                                |
+| Test generation             | chatgpt                                               |
+| UI component generation     | v0                                                    |
+| Research/pricing collection | ChatGPT,gemini,perplecity                             |
+| Prompt engineering          | Claude ,chatgpt,gemini                                |
+| Final polishing             | replit,chatgpt                                        |
