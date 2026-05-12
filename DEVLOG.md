@@ -107,3 +107,11 @@ What I Learned:
 3. Learned better ways to organize testing and metrics tracking.
 
 4. Improved frontend optimization and component structuring skills.
+
+## Note
+
+Project progress was slightly delayed for 1–2 days due to academic examinations. Development resumed immediately after exams with continued feature implementation and documentation updates.
+
+## AI Tools Used
+
+The project development process was assisted using modern AI tools for research, debugging, UI inspiration, documentation, and productivity improvements.
