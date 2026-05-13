@@ -108,6 +108,32 @@ What I Learned:
 
 4. Improved frontend optimization and component structuring skills.
 
+# Day - 6
+
+ Hours Worked - 5 Hours
+
+## What I Did
+
+1) Conducted user interviews with different users including a freelance developer, startup founder, and student using AI tools regularly.
+
+2) Completed the `USER_INTERVIEWS.md` file with interview summaries, direct quotes, feedback, and insights.
+
+3) Improved the audit recommendation logic to make suggestions more realistic and financially trustworthy.
+
+3) Enhanced the result dashboard UI and recommendation sections.
+
+4) Continued improving the overall SaaS-style design and user experience of the project.
+
+## What I Learned
+
+1) Users care more about clear financial reasoning than AI-generated suggestions alone.
+
+2) Simple and visually clean dashboards improve user understanding significantly.
+
+3) Real user feedback helps identify design and usability improvements faster than assumptions.
+
+4) Small UI improvements and better wording can greatly improve the professional feel of a product.
+
 ## Note
 
 Project progress was slightly delayed for 1–2 days due to academic examinations. Development resumed immediately after exams with continued feature implementation and documentation updates.
